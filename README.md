@@ -20,7 +20,7 @@
 ├── output_model/                # 训练保存的模型
 ├── sst2_preds.tsv               # 预测结果文件（提交用）
 ├── README.md                    # 项目说明文档
-└── 徐伟涛_基于Spark的GLUE文本分类任务研究.docx  # 项目论文报告
+└── 大数据1221004009徐伟涛.doc  # 项目论文报告
 ```
 
 ## ✅ 使用说明
@@ -50,6 +50,7 @@ python evaluate_and_save_predictions.py
 - 最终训练损失（train_loss）：约 0.197
 - 模型已保存至 `./output_model/`
 - 生成的预测文件：`sst2_preds.tsv`
+- 论文：大数据1221004009徐伟涛.doc
 
 ## 🧑‍🎓 学生信息
 
